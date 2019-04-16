@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chiilaphoo.geeksoflondon.com/sitemap.xml
